@@ -93,7 +93,4 @@ Happinest is a fun, real-time celebration web app where people join shared rooms
 - **Postgres** stores durable state (rooms, wishes, history).
 - **Redis** stores ephemeral state (presence, rate limiting, “who’s connected”).
 
----
-
-## 📁 Repo Structure (Suggested)
 
